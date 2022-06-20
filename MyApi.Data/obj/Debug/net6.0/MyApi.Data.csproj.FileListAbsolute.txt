@@ -1,0 +1,14 @@
+/Users/mac/Desktop/src/MyApi/MyApi.Data/bin/Debug/net6.0/MyApi.Data.deps.json
+/Users/mac/Desktop/src/MyApi/MyApi.Data/bin/Debug/net6.0/MyApi.Data.dll
+/Users/mac/Desktop/src/MyApi/MyApi.Data/bin/Debug/net6.0/ref/MyApi.Data.dll
+/Users/mac/Desktop/src/MyApi/MyApi.Data/bin/Debug/net6.0/MyApi.Data.pdb
+/Users/mac/Desktop/src/MyApi/MyApi.Data/obj/Debug/net6.0/MyApi.Data.csproj.AssemblyReference.cache
+/Users/mac/Desktop/src/MyApi/MyApi.Data/obj/Debug/net6.0/MyApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/src/MyApi/MyApi.Data/obj/Debug/net6.0/MyApi.Data.AssemblyInfoInputs.cache
+/Users/mac/Desktop/src/MyApi/MyApi.Data/obj/Debug/net6.0/MyApi.Data.AssemblyInfo.cs
+/Users/mac/Desktop/src/MyApi/MyApi.Data/obj/Debug/net6.0/MyApi.Data.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/src/MyApi/MyApi.Data/obj/Debug/net6.0/MyApi.Data.dll
+/Users/mac/Desktop/src/MyApi/MyApi.Data/obj/Debug/net6.0/ref/MyApi.Data.dll
+/Users/mac/Desktop/src/MyApi/MyApi.Data/obj/Debug/net6.0/MyApi.Data.pdb
+/Users/mac/Desktop/src/MyApi/MyApi.Data/bin/Debug/net6.0/MyApi.Data.runtimeconfig.json
+/Users/mac/Desktop/src/MyApi/MyApi.Data/obj/Debug/net6.0/MyApi.Data.genruntimeconfig.cache

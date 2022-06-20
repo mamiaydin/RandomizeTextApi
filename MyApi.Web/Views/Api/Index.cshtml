@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<input type="text" id="txtName"/>
+<input type="button" id="btnGet"  value="Get Random Text"/>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+    <script type="text/javascript">
+            $(function () {
+                $('#btnGet').click(function(){
+                       
+                            AjaxFormSubmit();
+                       
+               
+                    });
+         
+                function AjaxFormSubmit() {
+                    let temp = $("#txtName").val();
+                    $.ajax({
+                        type: "POST",
+                        url: "https://localhost:5001/api/translate/" + temp,
+                        success: function (response) {
+                            alert( "randomized text = " + response.random_text);
+                        },
+                        failure: function (response) {
+                            alert(response.responseText);
+                        },
+                        error: function (response) {
+                            alert(response.responseText);
+                        }
+                    });
+                }
+
+            });
+        </script>
+</div>
